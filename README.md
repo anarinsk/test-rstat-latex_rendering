@@ -18,7 +18,7 @@ tinytex::install_tinytex()
 
 - devtools를 설치한다. 설치되어 있다면 생략 
 - `yihui/tinytex`을 설치한다. 
-- tinytex을 통해서 tinytex의 구성 요소들을 설치한다. 
+- R의 tinytex을 통해서 시스템 내부에 texlive를 최소 구성으로 설치한다. 
 
 
 ```R
