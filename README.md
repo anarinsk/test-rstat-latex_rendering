@@ -82,7 +82,7 @@ tinytex::tlmgr_update()
 
 - 디렉토리에 깔린 `test.tex`을 열어보자. 
 - 위에 pdf 렌더링 버튼이 보일 것이다. 누르면, 렌더링에 실패한다. 방금 설치했던 `kotex.sty`가 없다고 메시지를 보낼 것이다. 
-- 해법은 간단하다. tex file에 대한 기본 렌더러가 tinytex이 아니기 떄문이다. 
+- 해법은 간단하다. tex file에 대한 기본 렌더러가 tinytex이 아니기 때문이다. 
 
 <kbd>Tools</kbd> -> <kbd>Global Options</kbd> -> <kbd>Sweave</kbd>
 
